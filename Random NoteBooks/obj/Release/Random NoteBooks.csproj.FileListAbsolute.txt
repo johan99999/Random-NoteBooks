@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\Project\Random-NoteBooks\Random NoteBooks\bin\Release\Random NoteBooks.exe.config
+C:\Users\pc\Desktop\Project\Random-NoteBooks\Random NoteBooks\bin\Release\Random NoteBooks.exe
+C:\Users\pc\Desktop\Project\Random-NoteBooks\Random NoteBooks\bin\Release\Random NoteBooks.pdb
+C:\Users\pc\Desktop\Project\Random-NoteBooks\Random NoteBooks\bin\Release\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\Project\Random-NoteBooks\Random NoteBooks\bin\Release\Newtonsoft.Json.xml
+C:\Users\pc\Desktop\Project\Random-NoteBooks\Random NoteBooks\obj\Release\Random NoteBooks.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Project\Random-NoteBooks\Random NoteBooks\obj\Release\Random_NoteBooks.Title.resources
+C:\Users\pc\Desktop\Project\Random-NoteBooks\Random NoteBooks\obj\Release\Random_NoteBooks.Properties.Resources.resources
+C:\Users\pc\Desktop\Project\Random-NoteBooks\Random NoteBooks\obj\Release\Random NoteBooks.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Project\Random-NoteBooks\Random NoteBooks\obj\Release\Random NoteBooks.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Project\Random-NoteBooks\Random NoteBooks\obj\Release\Random N.D9D19747.Up2Date
+C:\Users\pc\Desktop\Project\Random-NoteBooks\Random NoteBooks\obj\Release\Random NoteBooks.exe
+C:\Users\pc\Desktop\Project\Random-NoteBooks\Random NoteBooks\obj\Release\Random NoteBooks.pdb
