@@ -16,6 +16,11 @@ Cara Penggunaan
   ![image](https://github.com/user-attachments/assets/dde6439d-92e6-497e-8d51-b9bd4d960d00)
 - Klik tombol Quit untuk keluar dari aplikasi
 
+  Catatan :
+Tampilan pada aplikasi mungkin akan blur, jadi untuk mengatasinya buka properties pada icon aplikasi, masuk ke compatibility dan klik change high DPI setting, lalu centang kedua check box seperti di screenshot
+![image](https://github.com/user-attachments/assets/d299dd0d-f8f7-4bd4-8e98-e33c124cce7a)
+
+
 
 
 
